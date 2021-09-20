@@ -1,0 +1,7 @@
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\bin\Debug\ifszerkezet.exe.config
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\bin\Debug\ifszerkezet.exe
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\bin\Debug\ifszerkezet.pdb
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\obj\Debug\ifszerkezet.csprojAssemblyReference.cache
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\obj\Debug\ifszerkezet.csproj.CoreCompileInputs.cache
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\obj\Debug\ifszerkezet.exe
+C:\Users\berki.levente.m\source\repos\ifszerkezet\ifszerkezet\obj\Debug\ifszerkezet.pdb

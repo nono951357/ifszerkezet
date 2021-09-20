@@ -1,0 +1,7 @@
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\obj\Debug\EsloProjekt.csprojAssemblyReference.cache
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\obj\Debug\EsloProjekt.csproj.CoreCompileInputs.cache
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\bin\Debug\EsloProjekt.exe.config
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\bin\Debug\EsloProjekt.exe
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\bin\Debug\EsloProjekt.pdb
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\obj\Debug\EsloProjekt.exe
+C:\Users\berki.levente.m\source\repos\EsloProjekt\EsloProjekt\obj\Debug\EsloProjekt.pdb
